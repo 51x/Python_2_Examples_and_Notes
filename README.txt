@@ -7,4 +7,4 @@ IDE used is "vim".
 
 Looking for topics on linux:  ls -l | grep tuple
 
-All examples should work without error.
+All examples should work without error. If you are brave you can try with the command "python *.py" ;>
