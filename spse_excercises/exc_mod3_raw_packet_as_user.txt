@@ -1,0 +1,9 @@
+#!/bin/sh
+
+
+# cp /usr/bin/python2.7 python
+# setcap cap_net_raw+ep python                          
+# chmod +x python
+# ./python 29_raw_socket_struct_binascii.py
+
+# or a restricted sudo privilege which is probably better, not allowing priv esc :)
